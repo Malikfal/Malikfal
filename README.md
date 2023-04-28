@@ -1,10 +1,10 @@
 ### Hi everyone 👋
 
-## 📊 Skills
-
 ## 🧑🏻‍ About Me
 
 I am **Malikfal**, beginner developer in Python and C++ languages.
+
+## 📊 Skills
 
 ### 📚 Languages
 
