@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍ About Me
 
-I am **Malikfal**, beginner developer in Python and C++ languages
+I am **Malikfal**, beginner developer in Python and C++ languages.
 
 ### Languages
 
