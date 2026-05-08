@@ -1,7 +1,5 @@
 ### Hi everyone 👋
 
-## 🧑🏻‍ About Me
-
 ## 📊 Skills
 
 ### 📚 Languages
